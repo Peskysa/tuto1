@@ -1,0 +1,22 @@
+{
+  "name": "tuto1",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Apuntes prácticos de Python y entornos virtuales.",
+  "author": "Marco Pescador",
+  "license": "AGPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Peskysa/tuto1.git"
+  },
+  "scripts": {
+    "test": "node --test tests/core.test.cjs",
+    "build:web": "node scripts/build.cjs",
+    "test:browser": "node tests/browser.cjs",
+    "start": "node scripts/serve.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.64.1"
+  },
+  "packageManager": "pnpm@11.25.0"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "tuto1",
+  "name": "Guía de entornos Python",
+  "description": "Apuntes prácticos de Python y entornos virtuales.",
+  "type": "documentacion",
+  "prefix": "tuto1",
+  "version": "2.0.0",
+  "author": "Marco Pescador",
+  "license": "AGPL-3.0-only",
+  "licenseScope": "Código y gráficos originales de la modernización; consultar NOTICE y THIRD_PARTY.md para material anterior.",
+  "visibility": "public",
+  "web": "https://peskysa.github.io/tuto1/",
+  "modalities": [],
+  "entry": "public/index.html"
+}
